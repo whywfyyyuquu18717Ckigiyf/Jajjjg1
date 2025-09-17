@@ -1,3 +1,3 @@
-Flask==2.3.2
-gunicorn==20.1.0
-uuid
+flask==3.0.3
+markupsafe==2.1.5
+gunicorn==22.0.0
